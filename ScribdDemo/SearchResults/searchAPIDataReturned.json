@@ -1,0 +1,51 @@
+{
+    "items" : [
+        {
+            "id" : "fakeuuid1",
+            "title" : "Dead Wake",
+            "author" : "Erik Larson",
+            "quantStars" : "4.5",
+            "bookmarkedByUser" : "true",
+            "itemType": "0"
+        },
+        {
+            "id" : "fakeuuid2",
+            "title" : "Titanic: First Accounts",
+            "author" : "Tim Maltin",
+            "quantStars" : "4.5",
+            "itemType": "1"
+        },
+        {
+            "id" : "fakeuuid3",
+            "title" : "The Forgotten Dead",
+            "author" : "Ken Small",
+            "quantStars" : "4",
+            "bookmarkedByUser" : "false",
+            "itemType": "0"
+        },
+        {
+            "id" : "fakeuuid4",
+            "title" : "Mudlarking: Lost and Found on the River Thames",
+            "author" : "Lara Maiklem",
+            "quantStars" : "4.4",
+            "bookmarkedByUser" : "false",
+            "itemType": "1"
+        },
+        {
+            "id" : "fakeuuid4",
+            "title" : "Watching the English: The Hidden Rules of English Behaviour",
+            "author" : "Kate Fox",
+            "quantStars" : "4.8",
+            "bookmarkedByUser" : "true",
+            "itemType": "0"
+        },
+        {
+            "id" : "fakeuuid5",
+            "title" : "Our Man in Charleston: Britain's Secret Agent in the Civil War South",
+            "author" : "Christopher Dickey",
+            "quantStars" : "4.8",
+            "bookmarkedByUser" : "false",
+            "itemType": "1"
+        },
+    ]
+}

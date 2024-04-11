@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct ScribdDemoApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TopChartsView(itemsToShow: SearchAPIMock.conductASearch())
+                .preferredColorScheme(ColorScheme.dark) //I'd use device/app setting normally, but hardcoded it here since that is the theme used in the spec.
         }
     }
 }
